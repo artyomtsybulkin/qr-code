@@ -1,0 +1,28 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 10pt;
+}
+
+.user-table, thead, tr, td {
+    border: 1px solid lightgray;
+    border-collapse: collapse;
+    text-align: left;
+    vertical-align: top;
+    padding: 4px;
+}
+
+.user-table, tbody, tr, td {
+    border: 1px solid lightgray;
+    border-collapse: collapse;
+    text-align: left;
+    vertical-align: top;
+    padding: 4px;
+}
+
+.highlight-pass {
+    color:rgb(221, 11, 22)
+}
+
+.highlight-content {
+    color:mediumblue
+}
